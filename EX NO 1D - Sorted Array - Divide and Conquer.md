@@ -1,6 +1,6 @@
 
 # EX 1D Sorted Array using Divide and Conquer Approach.
-## DATE:
+## DATE:20/08/25
 ## AIM:
 To write a Java program to for given constraints.
 Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
@@ -8,7 +8,7 @@ Given two sorted arrays nums1 and nums2 of size m and n respectively, return the
 The overall run time complexity should be O(log (m+n)).
 
 ## Algorithm
-1. Start the program.
+1.Start the program.
 Read the sizes of two sorted arrays m and n, then input the elements of both arrays nums1 and nums2.
 
 2.Initialize two pointers p1 = 0 and p2 = 0 to traverse both arrays.
